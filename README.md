@@ -27,16 +27,16 @@ REST-Rant is an app where users can review restaurants.
 I change the original CSS Style from Blue, White colors, to warmer colors like yellow, orange, and red. Since is proven that those colors make people hungry.
 ### Home Page
 Starting page
-![Home page](public/images/Home Page.jpeg)
+![Home page](https://github.com/BGZhao/RestRantEleven/blob/main/public/images/Home%20Page.jpeg?raw=true)
 
 ### Places Page
 Restaurants added 
-![Places Page] (public/images/Places Page.jpeg)
+![Places Page](https://github.com/BGZhao/RestRantEleven/blob/main/public/images/Places%20Page.jpeg?raw=true)
 
 ### Edit Page
 Add or removed Places
-![Edit Page] (public/images/Edit Page.jpeg)    
+![Edit Page](https://github.com/BGZhao/RestRantEleven/blob/main/public/images/Edit%20Page.jpeg?raw=true)    
 
 ### Comments Page
 Add or removed reviews of the restaurants
-![comments Page] (public/images/Comments.jpeg)
+![comments Page](https://github.com/BGZhao/RestRantEleven/blob/main/public/images/Comments.jpeg?raw=true)
